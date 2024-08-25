@@ -24,7 +24,7 @@ contraseña: ``vagrant``
 
 Este caja de vagrant tiene instalado los siguiente:
 
-- Docker version v27.1.2 (o lastest)
+- Docker version v27.1.2 (o latest)
   - imagenes: "node:18.20-slim", "mysql:5.7" "mongo:6.0"
 - Docker-compose v2.29.2
 - nvm (Node Manager Version)
