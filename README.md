@@ -14,7 +14,7 @@ Establece un nuevo nombre de la caja única, modifica el valor de config.vm.defi
 Los requisitos necesarios para correr Vagrantfile son los siguientes:
 
 - Vagrant v2.3.4 (o superior)
-- VirtualBox v6.0.7
+- VirtualBox v7.0 (o superior)
   - Extension_Pack v7.0.6 (o superior)
 
 # Información
