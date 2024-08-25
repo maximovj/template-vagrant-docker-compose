@@ -1,7 +1,8 @@
 # Configuración básica de Vagrant
 
-Este es una plantilla para arrancar vagrant que utiliza Ubuntu 20.04
-Para acceder al sistema verifica si tienes el archivo ~/.ssh/config, de ser así tienes que renombrarlo a ``backup_config`` 
+Este es una plantilla para arrancar vagrant que utiliza Ubuntu 20.04LTS.
+
+Para acceder al sistema verifica si tienes el archivo ``.ssh/config``, de ser así tienes que renombrarlo temporalmente a ``backup_config`` 
 
 ## Cambios a realizar (Obligatorio)
 Establece un nuevo nombre de la caja única, modifica el valor de config.vm.define
