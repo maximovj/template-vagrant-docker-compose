@@ -5,7 +5,8 @@ Para acceder al sistema verifica si tienes el archivo ~/.ssh/config, de ser así
 
 ## Cambios a realizar (Obligatorio)
 Establece un nuevo nombre de la caja única, modifica el valor de config.vm.define
-``config.vm.define "template-vagrant-docker-compose"``
+
+``config.vm.define "<nombre-de-la-caja-vagrant>"``
 
 # Requisitos
 

@@ -6,7 +6,7 @@
 
 Vagrant.configure("2") do |config|
     # Establecer el nombre de la caja 
-    config.vm.define "template-vagrant-docker-compose-two"
+    config.vm.define "<nombre-de-la-caja-vagrant>"
     #config.vm.hostname = "abc"
   
     # Usar la caja de Ubuntu 20.04 LTS 64-bit
